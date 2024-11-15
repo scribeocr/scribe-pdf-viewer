@@ -1,0 +1,22 @@
+{
+  "name": "scribe-pdf-viewer",
+  "version": "0.1.0",
+  "description": "PDF viewer implemented using Scribe.js and Scribe-UI.",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scribeocr/scribe-pdf-viewer.git"
+  },
+  "author": "Balearica",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scribeocr/scribe-pdf-viewer/issues"
+  },
+  "homepage": "https://github.com/scribeocr/scribe-pdf-viewer"
+}
