@@ -3,6 +3,8 @@ import { ScribeViewer } from './scribe-ui/viewer.js';
 
 ScribeViewer.enableHTMLOverlay = true;
 
+scribe.opt.displayMode = 'invis';
+
 class ScribePDFViewer {
   constructor(container, width = 800, height = 1000) {
     ScribePDFViewer.addIconButtonStyles();
